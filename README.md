@@ -1,9 +1,9 @@
 # Digikat
 A repository documenting creative coding + ikkat experiments done as a part of Digikat in 2020
-
-# Note for team
+---
+### Note for team
 Please add the relevant source code, application builds, images, other docs/files in relevant folder in project. 
-## folder Structure 
+#### Folder Structure 
 ```jsx
 /Projects
 -Project Name
