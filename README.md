@@ -19,14 +19,18 @@ Please add the relevant source code, application builds, images, other docs/file
  ## Project Title
  ### Team : < A,B,C >
 
- <one image>
-
+ one image
  Short description
- Tags : XYZ, ABC
+ 
+ ### Tags:
+ XYZ, ABC
 
  ## Code Documentation
- ### Software Dependencies/ Tools used:  <A, B, C>//whicever is relevant
+ ### Software Dependencies/ Tools used: 
+ <A, B, C>//whicever is relevant
  ### How to use/ How to build
+ required instructions
+ 
  ---
 
  
